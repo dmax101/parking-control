@@ -72,4 +72,4 @@ buildNumber.properties
 *.code-workspace
 
 # Database
-data/
+data/**
